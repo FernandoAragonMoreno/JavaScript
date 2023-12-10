@@ -49,5 +49,5 @@ let respuesta1 = true;
   “Hola! Mi nombre es nombre apellido y tengo edad años, mi canción favorita es cancion y la respuesta es true/false”*/
 
 console.log(
-    `Hola! Mi nombre es ${nombre1} ${apellido1} y tengo ${edad1} años, mi canción favorita es ${cancion1} y la respuesta es ${respuesta1}`
+  `Hola! Mi nombre es ${nombre1} ${apellido1} y tengo ${edad1} años, mi canción favorita es ${cancion1} y la respuesta es ${respuesta1}`
 );

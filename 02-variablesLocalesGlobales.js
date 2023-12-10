@@ -15,11 +15,11 @@ console.log("Variable música antes del bloque:", musica);
 
 //esto es un bloque
 {
-    var pelicula = "Matilda";
-    console.log("Variable película en el bloque:", pelicula);
+  var pelicula = "Matilda";
+  console.log("Variable película en el bloque:", pelicula);
 
-    let musica = "Salsa";
-    console.log("Variable música en el bloque:", musica);
+  let musica = "Salsa";
+  console.log("Variable música en el bloque:", musica);
 }
 
 console.log("Variable película despues del bloque:", pelicula);
@@ -34,10 +34,10 @@ console.log(apellido);
 
 /*Defina dos variables locales en un bloque: edad y comida.*/
 {
-    let edad = 25;
-    let comida = "Pizza";
-    console.log(edad);
-    console.log(comida);
+  let edad = 25;
+  let comida = "Pizza";
+  console.log(edad);
+  console.log(comida);
 }
 
 /*Pruebe cambiando las variables por fuera y por dentro del bloque e imprimiendolas por consola.*/
@@ -47,8 +47,8 @@ console.log(nombre);
 console.log(apellido);
 
 {
-    var edad = 25;
-    var comida = "Pizza";
-    console.log(edad);
-    console.log(comida);
+  var edad = 25;
+  var comida = "Pizza";
+  console.log(edad);
+  console.log(comida);
 }

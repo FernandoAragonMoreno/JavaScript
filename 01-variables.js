@@ -18,10 +18,3 @@ var nombre = "Juan";
 var edad = 25;
 console.log(nombre);
 console.log(edad);
-
-
-
-
-
-
-

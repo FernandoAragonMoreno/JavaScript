@@ -54,14 +54,14 @@ Permiten realizar operaciones matemáticas. Los operadores que se utilizan más 
 console.log("-----------------Operadores mátematicos----------------------");
 
 let a = 9,
-    b = 56;
+  b = 56;
 
 //Se pueden declarar varias variables utilizando una sola vez la palabra reservada let o var, separandolos por comas
 
 let suma = a + b,
-    resta = a - b,
-    multiplicacion = a * b,
-    division = a / b;
+  resta = a - b,
+  multiplicacion = a * b,
+  division = a / b;
 
 console.log(`El valor de la suma es ${suma}
 El valor de la resta es ${resta}
@@ -81,11 +81,11 @@ Son los operadores que comparan el valor de variables numéricas para devolver u
 console.log("-----------------Operadores comparación----------------------");
 
 let mayor = a > b,
-    menor = a < b,
-    mayorIgual = a >= b,
-    menorIgual = a <= b,
-    igual = a == b,
-    distinto = a != b;
+  menor = a < b,
+  mayorIgual = a >= b,
+  menorIgual = a <= b,
+  igual = a == b,
+  distinto = a != b;
 
 console.log(`La variable ${a} es mayor que ${b}: ${mayor}
 La variable ${a} es menor que ${b}: ${menor}
@@ -101,8 +101,8 @@ La variable ${a} es distinta que ${b}: ${distinto}`);
     iii.(a/b)-(a+c)*/
 
 let a1 = 3,
-    b1 = 4,
-    c1 = 5;
+  b1 = 4,
+  c1 = 5;
 
 console.log(`(a1*b1)/c1: ${(a1 * b1) / c1}`);
 console.log(`(b1+c1)*a1: ${(b1 + c1) * a1}`);
@@ -111,7 +111,7 @@ console.log(`(a1/b1)-(a1+c1): ${a1 / b1 - (a1 + c1)}`);
 /*Realice un código en donde utilice el operador módulo (%).*/
 
 let a2 = 10,
-    b2 = 5;
+  b2 = 5;
 
 console.log(`(a2%b2): ${a2 % b2}`);
 
@@ -125,7 +125,7 @@ console.log(`Incremento: ${incremento}`);
 /*Realice un código que realice una tabla de verdad de AND y OR dadas dos variables booleanas.*/
 
 let a4 = true,
-    b4 = false;
+  b4 = false;
 
 console.log(`AND: ${a4 && b4}`);
 console.log(`OR: ${a4 || b4}`);

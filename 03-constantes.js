@@ -22,5 +22,5 @@ const HORAS = 24;
     “Un minuto tiene 60 segundos, una hora tiene 60 minutos y un día tiene 24 horas”*/
 
 console.log(
-    `Un minuto tiene ${SEGUNDOS} segundos, una hora tiene ${MINUTOS} minutos y un día tiene ${HORAS} horas`
+  `Un minuto tiene ${SEGUNDOS} segundos, una hora tiene ${MINUTOS} minutos y un día tiene ${HORAS} horas`
 );
